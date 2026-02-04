@@ -14,8 +14,8 @@
 💡 &nbsp; Hello everyone,I'm a recent graduate from uni of york. Love to code, currently exploring the world of Machine Learning & AI. I'm also passionate about Data Science. I enjoy collaborating with people on works of similar interest. 
 
 🌱 &nbsp;Currently on track learning more about Data Science, Machine Learning, and Generative AI Applications.\
-✍️ &nbsp;😄Fun Fact: I'm an avid fan of retro games development, 3D printing & discord tech servers.\
-💬 &nbsp;Feel free to reach out to me for collaborations or discussions in general.\
+✍️ &nbsp;😄Fun Fact: I'm an avid fan of retro games development and 3D printing.\
+💬 &nbsp;Feel free to reach out to me for collaborations or discussions in general.
 
 
 -----
@@ -28,7 +28,6 @@
 <a href="https://x.com/bhekydotdev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=x&logoColor=white"/></a> &nbsp;
 
 
-
 -----  
 
 
@@ -37,10 +36,10 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Next-Gen Pharmaceutical Logistics Website](http://comingupsoon.dev/)   | Project on developing a fully working dynamic website using FastAPI, Next.js & Typescript. |
-| [StudyForge](https://comingupsoon.dev/) | An AI-powered PDFs to infographics converter built using React, Vercel AI SDK, & Typescript. |
-| [pkg-sentinent](https://comingupsoon.dev/) | An open-source terminal-native security scanner for vibe-coded projects. Monitors package installation through analysing dependencies, flagging any suspecious injections or malicious packages. |
-| [Personal Portfolio](https://bhekydotdev.netlify.app/) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
+| [collectiveQ](https://comingsoonn.vercel.app/)   | An AI-assisted community insight tool that ingests Discord messages history and produce human-readable report of recurring issues, patterns, and trends. Build with Python (FastAPI) for backend and Next.js for frontend. |
+| [StudyForge](https://comingsoonn.vercel.app/) | Turn PDFs and handwritten notes into infographics and structured study materials. Tech used: Next.js, Clerk (auth), Supabase, Gemini API, and TailwindCSS + shadcn ui. |
+| [lagom](https://comingsoonn.vercel.app/) | An open-source modern marketing OS dashboard frontend ui build with Next.js, TypeScript, and TailwindCSS. |
+| [Personal Portfolio](https://bhekydotdev.vercel.app//) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
 
 <hr>
 

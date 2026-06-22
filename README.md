@@ -40,6 +40,7 @@
 | [StudyForge](https://comingsoonn.vercel.app/) | Turn PDFs and handwritten notes into infographics and structured study materials. Tech used: Next.js, Clerk (auth), Supabase, Gemini API, and TailwindCSS + shadcn ui. |
 | [lagom](https://comingsoonn.vercel.app/) | An open-source modern marketing OS dashboard frontend ui build with Next.js, TypeScript, and TailwindCSS. |
 | [Personal Portfolio](https://bhekydotdev.vercel.app/) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
+| [Personal Portfolio](https://kolturegram.com) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
 
 <hr>
 

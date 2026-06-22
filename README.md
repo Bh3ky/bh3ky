@@ -81,8 +81,24 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-ar21.svg"></code>
   
  
- -----
+ 
+
+ # 📜 Certifications
+
+- Microsoft Azure Administrator Associate (AZ-104)
+- Kubernetes and Cloud Native Associate (KCNA Essentials)
   
+# 🎯 Career Journey
+
+✅ Backend Development (FastAPI & Django)
+
+🔄 Cloud & DevOps (Docker, Kubernetes, CI/CD)
+
+🔄 Azure Infrastructure
+
+🔄 AI Applications & LLMs
+
+🎯 MLOps & Distributed Systems
 
 </p>
 

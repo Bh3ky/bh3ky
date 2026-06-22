@@ -11,11 +11,11 @@
 ![profile count](https://komarev.com/ghpvc/?username=Bh3ky&color=red)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm a recent graduate from uni of york. Love to code, currently exploring the world of Machine Learning & AI. I'm also passionate about Data Science. I enjoy collaborating with people on works of similar interest. 
-
-🌱 &nbsp;Currently on track learning more about Data Science, Machine Learning, and Generative AI Applications.\
-✍️ &nbsp;😄Fun Fact: I'm an avid fan of retro games development and 3D printing.\
-💬 &nbsp;Feel free to reach out to me for collaborations or discussions in general.
+💡 &nbsp;I'm Bheki (Bh3ky), a Backend Developer specialising in FastAPI and Django, with a growing focus on cloud-native systems and DevOps automation. \
+☁️ &nbsp;Certified in KCNA Essentials, with interests in Kubernetes, CI/CD pipelines, and scalable backend architectures. \
+🌱 &nbsp;Currently working towards my certification in Microsoft Azure Administrator Associate. \
+😄 &nbsp;Fun Fact: I'm an avid fan of retro games development and 3D printing. \
+💬 &nbsp;Always open to collaborations, discussions, and learning opportunities.
 
 
 -----
@@ -36,12 +36,22 @@
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [collectiveQ](https://comingsoonn.vercel.app/)   | An AI-assisted community insight tool that ingests Discord messages history and produce human-readable report of recurring issues, patterns, and trends. Build with Python (FastAPI) for backend and Next.js for frontend. |
+| [collectiveQ](https://comingsoonn.vercel.app/)   | An AI-assisted community insight tool that ingests Discord messages history and produce human-readable report of recurring issues, patterns, and trends. Build with FastAPI (backend) and Next.js (frontend). |
 | [StudyForge](https://comingsoonn.vercel.app/) | Turn PDFs and handwritten notes into infographics and structured study materials. Tech used: Next.js, Clerk (auth), Supabase, Gemini API, and TailwindCSS + shadcn ui. |
 | [lagom](https://comingsoonn.vercel.app/) | An open-source modern marketing OS dashboard frontend ui build with Next.js, TypeScript, and TailwindCSS. |
-| [Personal Portfolio](https://bhekydotdev.vercel.app//) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
+| [Personal Portfolio](https://bhekydotdev.vercel.app/) | This is my personal-portfolio website. Have a look! And feedbacks will be muchly appreciated 🙏🏾. |
 
 <hr>
+
+
+
+### 🚀 Currently Working On
+
+- Building Nuri Labs and RiftHub
+- Learning Kubernetes and cloud-native architectures
+- Strengthening system design and backend engineering skills
+
+-----
 
 ### Languages and Tools
 

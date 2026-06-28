@@ -78,8 +78,6 @@
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/fastapi/fastapi-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-ar21.svg"></code>
-  
  
  
 
